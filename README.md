@@ -1,1 +1,3 @@
-# Data-198
+# Data198 Pedagogy Course
+GitHub Assignment
+Tanya- Student A
